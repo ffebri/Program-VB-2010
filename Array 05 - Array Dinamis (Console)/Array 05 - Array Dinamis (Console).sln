@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Array 05 - Array Dinamis (Console)", "Array 05 - Array Dinamis (Console)\Array 05 - Array Dinamis (Console).vbproj", "{0B14101B-F19C-4A40-A2A1-787D809FECEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B14101B-F19C-4A40-A2A1-787D809FECEE}.Debug|x86.ActiveCfg = Debug|x86
+		{0B14101B-F19C-4A40-A2A1-787D809FECEE}.Debug|x86.Build.0 = Debug|x86
+		{0B14101B-F19C-4A40-A2A1-787D809FECEE}.Release|x86.ActiveCfg = Release|x86
+		{0B14101B-F19C-4A40-A2A1-787D809FECEE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
