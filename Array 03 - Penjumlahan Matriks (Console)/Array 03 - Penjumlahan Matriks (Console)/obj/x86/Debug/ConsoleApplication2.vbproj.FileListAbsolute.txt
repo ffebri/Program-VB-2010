@@ -1,0 +1,10 @@
+C:\Users\JPM\AppData\Local\Temporary Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\JPM\AppData\Local\Temporary Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\JPM\AppData\Local\Temporary Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.xml
+C:\Users\JPM\AppData\Local\Temporary Projects\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JPM\AppData\Local\Temporary Projects\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.Resources.resources
+C:\Users\JPM\AppData\Local\Temporary Projects\ConsoleApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JPM\AppData\Local\Temporary Projects\ConsoleApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JPM\AppData\Local\Temporary Projects\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\JPM\AppData\Local\Temporary Projects\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.xml
+C:\Users\JPM\AppData\Local\Temporary Projects\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
